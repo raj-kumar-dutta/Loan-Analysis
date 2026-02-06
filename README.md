@@ -117,14 +117,14 @@ Average Interest Rate = AVERAGE(Loans[int_rate])
 ### 📊 Dashboard Page 1 – Overview
 This page provides a high-level summary of loan members, income statistics, loan distribution, and overall loan performance.
 
-![Dashboard Page 1 – Overview](screenshots/dashboard_page1_overview.png)
+![Dashboard Page 1 – Overview](https://github.com/raj-kumar-dutta/Loan-Analysis/blob/eb322b607531c93fcfffda3c43648a9c0803a7ed/Screenshot%202026-02-06%20205358.png)
 
 ---
 
 ### 📈 Dashboard Page 2 – Detailed Analysis
 This page focuses on detailed financial insights, loan purpose analysis, verification status, loan terms, and quarterly interest rate trends.
 
-![Dashboard Page 2 – Detailed Analysis](screenshots/dashboard_page2_analysis.png)
+![Dashboard Page 2 – Detailed Analysis](https://github.com/raj-kumar-dutta/Loan-Analysis/blob/eb322b607531c93fcfffda3c43648a9c0803a7ed/Screenshot%202026-02-06%20205444.png)
 
 ---
 
